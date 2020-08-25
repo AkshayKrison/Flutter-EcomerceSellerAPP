@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "image": "assets/products/Image 3@2x.png",
+    "name": "Iphone 11",
+    "pid" : "2434324",
+    "price": "39.99"
+    
+  },
+  {
+    "id": 2,
+    "image": "assets/products/Image 3@2x.png",
+    "name": "Iphone 11",
+    "pid" : "24214124",
+    "price": "59.99"
+    
+  },
+  {
+    "id": 3,
+    "image": "assets/products/Image 3@2x.png",
+    "name": "Iphone 11",
+    "pid" : "24314314",
+    "price": "69.99"
+    
+  },
+  {
+    "id": 4,
+    "image": "assets/products/Image 3@2x.png",
+    "name": "Iphone 11",
+    "pid" : "2422434643",
+    "price": "49.99"
+    
+  }
+]
